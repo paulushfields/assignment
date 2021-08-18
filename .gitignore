@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/global_cities_data_set.json
+/assignment.txt
+/DS_ASSIGNMENT_AUG.txt
