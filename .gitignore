@@ -136,3 +136,6 @@ dmypy.json
 /doc/data.xlsx
 /exploration - Copy.ipynb
 /.vscode/settings.json
+
+data*/
+/exploration copy.ipynb
